@@ -239,7 +239,7 @@ class library
             }
         }
    }
-/*   void library::sort()
+   void library::sort()
    {
     if(head == NULL)
     {
@@ -285,7 +285,7 @@ class library
           ptr = ptr -> next_add;
         }
     }
-}*/
+}
 void library::show()
 {
     system("cls");
