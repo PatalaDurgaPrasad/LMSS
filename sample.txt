@@ -1,0 +1,16 @@
+
+
+			==============================================
+
+			======== LIBRARY MANAGEMENT SYSTEM ===========
+
+			==============================================
+
+
+
+-------------Books Available in Library-------------
+
+
+
+Book Id			Book Name								Author Name					Publisher Name                    
+  4			xf					vx                    as
